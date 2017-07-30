@@ -4,6 +4,13 @@ Hello World practice
 Learning about github
 
 ## Markdown practice
+
+Email address:
+
+dave@nonexistent.company
+
+Here is a [link](https://www.ieee.org) to the IEEE site.
+
 *This text should be italicized*
 
 **This text should be in bold**
