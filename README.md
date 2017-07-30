@@ -51,7 +51,7 @@ kappa = &kappa; = &#954;
 
 A = &pi; r<sup>2</sup>
 
-*e<sup>i&pi;* + 1 = 0
+*e<sup>i&pi;</sup>* + 1 = 0
 
 ## Script code
 The code for the script is
@@ -67,3 +67,10 @@ and here it is with syntax highlighting:
 echo "Hello, World"
 ```
 and here is a link to the [Hello World](hello.sh) script.
+
+## Another math section
+A = &pi; r <sup>2</sup>
+
+*e <sup>i &pi;</sup>* + 1 = 0
+
+*r <sup>2</sup> = x <sup>2</sup> + y <sup>2</sup> + z <sup>2</sup>*
