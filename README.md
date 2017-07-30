@@ -32,6 +32,7 @@ Code block:
 E = m * SQR(c)
 ```
 
+## Math section
 Superscript:
 
 E = m c<sup>2</sup>
