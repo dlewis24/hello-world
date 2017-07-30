@@ -11,6 +11,8 @@ dave@nonexistent.company
 
 Here is a [link](https://www.ieee.org) to the IEEE site.
 
+Here's link to the [math section with equations](https://github.com/dlewis24/hello-world/blob/master/README.md#math-section) below.
+
 *This text should be italicized*
 
 **This text should be in bold**
