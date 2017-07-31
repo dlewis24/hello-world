@@ -74,3 +74,5 @@ A = &pi; r <sup>2</sup>
 *e <sup>i &pi;</sup>* + 1 = 0
 
 *r <sup>2</sup> = x <sup>2</sup> + y <sup>2</sup> + z <sup>2</sup>*
+
+*dx dy dz = r* <sup>2</sup> *dr* sin *&theta; d&theta; d&phi;*
