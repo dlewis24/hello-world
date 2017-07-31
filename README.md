@@ -58,13 +58,13 @@ The code for the script is
 ```
 #!/bin/bash
 
-echo "Hello, World"
+echo "Hello World!"
 ```
 and here it is with syntax highlighting:
 ```Bash
 #!/bin/bash
 
-echo "Hello, World"
+echo "Hello World!"
 ```
 and here is a link to the [Hello World](hello.sh) script.
 
